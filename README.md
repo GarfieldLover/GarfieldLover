@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+HI 😄
+我是 张科 ，码农 ，专注移动端搬码，擅长iOS端架构以及组件化重构，擅长Swift、SwiftUI、OC等。
+
+I'm ZK, a coder, focusing on mobile coding, good at iOS architecture and component refactoring, good at Swift, SwiftUI, OC.
